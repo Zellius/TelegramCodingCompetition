@@ -13,3 +13,11 @@ Note: you may not use specialized charting libraries. All the code you submit mu
 The criteria we’ll be using to define the winner are speed, efficiency and the size of the app.
 
 The app should show 4 charts on one screen.
+
+| Expectation                                                | Reality                                            |
+|:-----------------------------------------------------------|:---------------------------------------------------|
+| ![Alt text](/files/expectation.gif?raw=true "Expectation") | ![Alt text](/files/reality.gif?raw=true "Reality") |
+| ![Alt text](/files/expectation_light.png?raw=true "Light Mode")                                                ||
+| ![Alt text](/files/expectation_dark.png?raw=true "Dark Mode")                                                  ||
+
+
