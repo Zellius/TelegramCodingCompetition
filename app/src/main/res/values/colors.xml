@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="selected_frame">#78A8B5AF</color>
+    <color name="unselected">#B4F5F8F9</color>
+    <color name="graph_touch">#28419AD4</color>
+    <color name="air_force_blue">#517DA2</color>
+    <color name="wedgewood">#426382</color>
+    <color name="solitude">#E7E8E9</color>
+    <color name="grey_chateau">#95A1A9</color>
+    <color name="summer_sky">#3896D4</color>
+    <color name="pattens_blue">#DEE4E8</color>
+</resources>

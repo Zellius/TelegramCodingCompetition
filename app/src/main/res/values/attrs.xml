@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GraphVisualizer">
+        <attr name="graph_height" format="dimension" />
+        <attr name="mini_graph_height" format="dimension" />
+    </declare-styleable>
+    <!--<declare-styleable name="MiniGraphVisualizer">-->
+    <!--<attr name="mini_graph_height" format="dimension"/>-->
+    <!--</declare-styleable>-->
+</resources>

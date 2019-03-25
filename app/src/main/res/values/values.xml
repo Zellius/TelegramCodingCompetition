@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="line_width">1.6dp</dimen>
+    <dimen name="touch_padding">8dp</dimen>
+    <dimen name="axis_width">1.2dp</dimen>
+    <dimen name="selected_width">1.4dp</dimen>
+    <dimen name="axis_labels_size">12dp</dimen>
+    <dimen name="axis_labels_padding">6dp</dimen>
+</resources>
